@@ -55,4 +55,8 @@ def loadTags(filename):
 def loadBooksTags(booktagsfile):
     # TO-DO: Modificación del Est-1 y Est-2 en el Lab 2
     booktagsfile = cf.data_dir + filename
+<<<<<<< HEAD
     return model.addBookTags(booktagsfile)
+=======
+    return model.addBookTags(booktagsfile)
+>>>>>>> origin/EST2
