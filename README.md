@@ -1,3 +1,7 @@
+Juan Esteban Currea - 201922133
+Maria Jose Cely - 202011803
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
