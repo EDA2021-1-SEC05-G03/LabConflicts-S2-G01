@@ -73,8 +73,4 @@ def addBookTags(booktagsfile):
     # TO-DO: Modificación del Est-1 y Est-2 en el Lab 2
     booktags = lt.newList(datastructure='SINGLE_LINKED',
         filename=booktagsfile)
-<<<<<<< HEAD
     return booktags
-=======
-    return booktags
->>>>>>> origin/EST2
